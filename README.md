@@ -18,6 +18,10 @@
 
 ## 사용 데이터
 1. [부산광역시_전세사기 발생건수_20250331.csv](https://www.data.go.kr/data/15143009/fileData.do)
+-> busan.csv로 파일 이름 변경
 2. [광주광역시_전세사기피해자 결정 현황_20250331.csv](https://www.data.go.kr/data/15142922/fileData.do)
+-> gwangju.csv로 파일 이름 변경
 3. [울산광역시_구군별 전세사기피해자 결정건수_20250228.csv](https://www.data.go.kr/data/15142936/fileData.do)
+-> ulsan.csv로 파일 이름 변경
 4. [인천광역시_연도별 연령별 전세사기 관련 통계_20250327.csv](https://www.data.go.kr/data/15142802/fileData.do)
+-> incheon.csv로 파일 이름 변경
