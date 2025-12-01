@@ -1,6 +1,6 @@
 # BigData-Project
 
-##rental_fraud_local | 전국 전세 사기
+## Rental_Fraud_Local | 전국 전세 사기
 
 ## 전국 각지의 전세사기 비율은 어느 정도 일까?
 
