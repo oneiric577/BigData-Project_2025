@@ -61,7 +61,7 @@
 <img width="728" height="473" alt="Image" src="https://github.com/user-attachments/assets/ae646b98-7d8f-4e09-a411-d8f5765cc344" />
 
 ## 보고서
-+ -> [전국 각지의 전세사기 비율은 어느 정도 일까?]()
++ -> [전국 각지의 전세사기 비율은 어느 정도 일까?](https://github.com/oneiric577/BigData-Project/blob/main/202144022(KSS_Big_Data).pdf)
 
 ## 결론
 시각화를 하여 본 결과, 인천에선 미추홀구, 부산에선 부산진구, 광주는 광산구, 울산은 남구에서 가장 많은 전세사기를 당하였다.
