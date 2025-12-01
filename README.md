@@ -41,8 +41,13 @@
 * 인천
 <img width="1126" height="481" alt="Image" src="https://github.com/user-attachments/assets/8400b6f5-ebc8-4d3c-b355-b0c12cb7bf6e" />
 * 부산
+<img width="1140" height="485" alt="Image" src="https://github.com/user-attachments/assets/68f51d83-8863-46ad-bf09-760d04d6b9b2" />
 * 광주
+<img width="1148" height="488" alt="Image" src="https://github.com/user-attachments/assets/f3659117-e573-4f83-abf3-f840e4b54875" />
 * 울산
+
+* 전국
+<img width="1046" height="480" alt="Image" src="https://github.com/user-attachments/assets/3b25c32c-2a78-4b31-a74b-5180c9ebdff9" />
 
 ## 결론(시각화)
 
