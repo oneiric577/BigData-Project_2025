@@ -37,19 +37,25 @@
 ## 사용된 시각화 방법
 + -> sns.barplot
 
-## 시각화 결론
+## 시각화 결과
 * 인천
 <img width="1126" height="481" alt="Image" src="https://github.com/user-attachments/assets/8400b6f5-ebc8-4d3c-b355-b0c12cb7bf6e" />
+
 * 부산
 <img width="1140" height="485" alt="Image" src="https://github.com/user-attachments/assets/68f51d83-8863-46ad-bf09-760d04d6b9b2" />
+
 * 광주
 <img width="1148" height="488" alt="Image" src="https://github.com/user-attachments/assets/f3659117-e573-4f83-abf3-f840e4b54875" />
+
 * 울산
+<img width="1140" height="498" alt="Image" src="https://github.com/user-attachments/assets/9adad6f0-6bae-42c1-beda-2a1287380164" />
 
 * 전국
 <img width="1046" height="480" alt="Image" src="https://github.com/user-attachments/assets/3b25c32c-2a78-4b31-a74b-5180c9ebdff9" />
 
-## 결론(시각화)
+## 시각화 결론(예측)
+* 인천 전세사기 미래 예측(회귀_그래프)
+<img width="728" height="473" alt="Image" src="https://github.com/user-attachments/assets/ae646b98-7d8f-4e09-a411-d8f5765cc344" />
 
 ## 보고서
-
++ -> [전국 각지의 전세사기 비율은 어느 정도 일까?]()
