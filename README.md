@@ -27,3 +27,23 @@
 + -> [ulsan.csv](https://github.com/oneiric577/BigData-Project/blob/main/incheon.csv)로 파일 이름 변경
 4. [인천광역시_연도별 연령별 전세사기 관련 통계_20250327.csv](https://www.data.go.kr/data/15142802/fileData.do)
 + -> [incheon.csv](https://github.com/oneiric577/BigData-Project/blob/main/ulsan.csv)로 파일 이름 변경
+
+## 사용된 전처리 방법
+1. 원소 값 재설정
+2. 불필요 데이터 drop
+3. 열 이름 재설정
+4. stack 함수를 사용해 자료 변형
+
+## 사용된 시각화 방법
++ -> sns.barplot
+
+## 시각화 결론
+* 인천
+* 부산
+* 광주
+* 울산
+
+## 결론(시각화)
+
+## 보고서
+
