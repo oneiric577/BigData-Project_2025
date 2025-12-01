@@ -39,6 +39,7 @@
 
 ## 시각화 결론
 * 인천
+<img width="1126" height="481" alt="Image" src="https://github.com/user-attachments/assets/8400b6f5-ebc8-4d3c-b355-b0c12cb7bf6e" />
 * 부산
 * 광주
 * 울산
