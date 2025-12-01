@@ -13,6 +13,9 @@
 그외의 악질적 임대인에게 당한 전세사기 피해자들은 2025년인 현재까지도 계속 발생하고 있다.
 그리하여 전국적으로 전세사기 피해의 비율이 어느정도인지 알아보기 위해 주제로 선정하게 되었다.
 
+## 프로젝트 범위
++ 데이터 수집(공공포털) -> 데이터 가공/정제 -> 시각화 및 분석 -> 분석 결과
+
 ## 데이터 수집
 수집기간 : 2025-08-25 ~ 2025-09-01
 
@@ -50,7 +53,7 @@
 * 울산
 <img width="1140" height="498" alt="Image" src="https://github.com/user-attachments/assets/9adad6f0-6bae-42c1-beda-2a1287380164" />
 
-* 전국
+* 광역시별
 <img width="1046" height="480" alt="Image" src="https://github.com/user-attachments/assets/3b25c32c-2a78-4b31-a74b-5180c9ebdff9" />
 
 ## 전세사기 미래 예측
