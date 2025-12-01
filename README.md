@@ -1,6 +1,7 @@
 # BigData-Project
 
 ## Rental_Fraud_Local | 전국 전세 사기
++ 결과 파일 : [Rental_Fraud_Local.ipynb](https://github.com/oneiric577/BigData-Project/blob/main/Rental_Fraud_Locall.ipynb)
 
 ## 전국 각지의 전세사기 비율은 어느 정도 일까?
 
